@@ -10,18 +10,19 @@ Pro zápis názvu filmu a roku natočení:
 ------------------------------------------------
 
 Pro zápis žánru:
-
+```
 "movie_has_genre":{
 
     "genre":{
         "name": "ŽÁNR FILMU"
     }
 }
-
+```
 -------------------------------------------------
 
 Pro zápis země:
-
+```
 "country":{
     "name": "JMÉNO ZEMĚ"
 }
+```
