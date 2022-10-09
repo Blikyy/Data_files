@@ -1,6 +1,6 @@
-pro zapsání názvu filmu a roku natočení = <movie name="název filmu" year="rok natočení"></movie>
+pro zapsání názvu filmu a roku natočení = film -> value name slouží k zapsání názvu filmu a value year slouží k zápisu roku
 
-pro zapsání názvu žánru = <genre> <name> NÁZEV FILMU </name> </genre>
+pro zapsání názvu žánru = genre -> name -> name slouží k zápisu jména žánru
 
-pro zapsání názvu země = <counry> <name> JMÉNO ZEMĚ </name> </country>
+pro zapsání názvu země = country -> name -> name slouží k zápisu jména země 
 
