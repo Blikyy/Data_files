@@ -1,7 +1,9 @@
 Pro zápis názvu filmu a roku natočení:
 
 movie:
+
   name: NÁZEV FILMU
+  
   year: ROK NATOČENÍ
 
 ---------------------------------------
