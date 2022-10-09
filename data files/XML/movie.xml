@@ -1,0 +1,15 @@
+<movie name="American psycho" year="2000">
+
+    <movie_has_genere>
+
+        <genre>
+            <name>Thriller</name>
+        </genre>
+
+    </movie_has_genere>
+
+    <country>
+        <name>USA</name>
+    </country>
+
+</movie>

@@ -1,0 +1,19 @@
+{
+    "movie": [
+    {
+        "name": "American Psycho",
+        "year": 2000,
+
+        "movie_has_genre":{
+
+            "genre":{
+                "name": "Thriller"
+            }
+        },
+
+        "country":{
+            "name": "USA"
+        }
+    }
+    ]
+}
