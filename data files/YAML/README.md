@@ -11,6 +11,7 @@ movie:
 Pro zápis žánru:
 
   movie_has_genre:
+  
     genre: Thriller
 
 ----------------------------------------
@@ -18,4 +19,5 @@ Pro zápis žánru:
 Pro zápis jména země:
 
   country:
+  
     name: JMÉNO ZEMĚ 
