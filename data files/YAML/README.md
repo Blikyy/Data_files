@@ -12,7 +12,8 @@ Pro zápis žánru:
 ```
   movie_has_genre:
   
-    genre: Thriller
+    genre: 
+      name: Thriller
 ```
 ----------------------------------------
 
