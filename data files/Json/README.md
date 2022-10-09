@@ -1,12 +1,12 @@
 Pro zápis názvu filmu a roku natočení:
-
+```
 "movie": [ 
     {
         "name": "NÁZEV FIMLU"
         "year": "ROK NATOČENÍ"
     }   
     ]
-
+```
 ------------------------------------------------
 
 Pro zápis žánru:
