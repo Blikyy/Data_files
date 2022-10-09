@@ -13,7 +13,7 @@ Pro zápis žánru:
   movie_has_genre:
   
     genre: 
-      name: Thriller
+      name: NÁZEV ŽÁNRU
 ```
 ----------------------------------------
 
